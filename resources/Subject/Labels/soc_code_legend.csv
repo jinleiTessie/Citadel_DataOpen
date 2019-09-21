@@ -1,0 +1,494 @@
+Major Group,Sub-Major Group,Minor Group,Unit   Group,Group Title
+1.0,,,,"MANAGERS, DIRECTORS AND SENIOR OFFICIALS"
+1.0,11.0,,,CORPORATE MANAGERS AND DIRECTORS
+1.0,11.0,111.0,,Chief Executives and Senior Officials
+1.0,11.0,111.0,1115.0,Chief executives and senior officials
+1.0,11.0,111.0,1116.0,Elected officers and representatives
+1.0,11.0,112.0,,Production Managers and Directors
+1.0,11.0,112.0,1121.0,Production managers and directors in manufacturing
+1.0,11.0,112.0,1122.0,Production managers and directors in construction
+1.0,11.0,112.0,1123.0,Production managers and directors in mining and energy
+1.0,11.0,113.0,,Functional Managers and Directors
+1.0,11.0,113.0,1131.0,Financial managers and directors
+1.0,11.0,113.0,1132.0,Marketing and sales directors
+1.0,11.0,113.0,1133.0,Purchasing managers and directors
+1.0,11.0,113.0,1134.0,Advertising and public relations directors
+1.0,11.0,113.0,1135.0,Human resource managers and directors
+1.0,11.0,113.0,1136.0,Information technology and telecommunications directors
+1.0,11.0,113.0,1139.0,Functional managers and directors n.e.c.
+1.0,11.0,115.0,,Financial Institution Managers and Directors
+1.0,11.0,115.0,1150.0,Financial institution managers and directors
+1.0,11.0,116.0,,Managers and Directors in Transport and Logistics
+1.0,11.0,116.0,1161.0,Managers and directors in transport and distribution
+1.0,11.0,116.0,1162.0,Managers and directors in storage and warehousing
+1.0,11.0,117.0,,Senior Officers in Protective Services
+1.0,11.0,117.0,1171.0,Officers in armed forces
+1.0,11.0,117.0,1172.0,Senior police officers
+1.0,11.0,117.0,1173.0,"Senior officers in fire, ambulance, prison and related services"
+1.0,11.0,118.0,,Health and Social Services Managers and Directors
+1.0,11.0,118.0,1181.0,Health services and public health managers and directors
+1.0,11.0,118.0,1184.0,Social services managers and directors
+1.0,11.0,119.0,,Managers and Directors in Retail and Wholesale
+1.0,11.0,119.0,1190.0,Managers and directors in retail and wholesale
+1.0,12.0,119.0,,OTHER MANAGERS AND PROPRIETORS
+1.0,12.0,121.0,,Managers and Proprietors in Agriculture Related Services
+1.0,12.0,121.0,1211.0,Managers and proprietors in agriculture and horticulture
+1.0,12.0,121.0,1213.0,"Managers and proprietors in forestry, fishing and related services"
+1.0,12.0,122.0,,Managers and Proprietors in Hospitality and Leisure Services
+1.0,12.0,122.0,1221.0,Hotel and accommodation managers and proprietors
+1.0,12.0,122.0,1223.0,Restaurant and catering establishment managers and proprietors
+1.0,12.0,122.0,1224.0,Publicans and managers of licensed premises
+1.0,12.0,122.0,1225.0,Leisure and sports managers
+1.0,12.0,122.0,1226.0,Travel agency managers and proprietors
+1.0,12.0,124.0,,Managers and Proprietors in Health and Care Services
+1.0,12.0,124.0,1241.0,Health care practice managers
+1.0,12.0,124.0,1242.0,"Residential, day and domiciliary  care managers and proprietors"
+1.0,12.0,125.0,,Managers and Proprietors in Other Services
+1.0,12.0,125.0,1251.0,"Property, housing and estate managers"
+1.0,12.0,125.0,1252.0,Garage managers and proprietors
+1.0,12.0,125.0,1253.0,Hairdressing and beauty salon managers and proprietors
+1.0,12.0,125.0,1254.0,Shopkeepers and proprietors – wholesale and retail
+1.0,12.0,125.0,1255.0,Waste disposal and environmental services managers
+1.0,12.0,125.0,1259.0,Managers and proprietors in other services n.e.c.
+2.0,,,,PROFESSIONAL OCCUPATIONS
+2.0,21.0,,,"SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS"
+2.0,21.0,211.0,,Natural and Social Science Professionals
+2.0,21.0,211.0,2111.0,Chemical scientists
+2.0,21.0,211.0,2112.0,Biological scientists and biochemists
+2.0,21.0,211.0,2113.0,Physical scientists
+2.0,21.0,211.0,2114.0,Social and humanities scientists
+2.0,21.0,211.0,2119.0,Natural and social science professionals n.e.c.
+2.0,21.0,212.0,,Engineering Professionals
+2.0,21.0,212.0,2121.0,Civil engineers
+2.0,21.0,212.0,2122.0,Mechanical engineers
+2.0,21.0,212.0,2123.0,Electrical engineers
+2.0,21.0,212.0,2124.0,Electronics engineers
+2.0,21.0,212.0,2126.0,Design and development engineers
+2.0,21.0,212.0,2127.0,Production and process engineers
+2.0,21.0,212.0,2129.0,Engineering professionals n.e.c.
+2.0,21.0,213.0,,Information Technology and Telecommunications Professionals
+2.0,21.0,213.0,2133.0,IT specialist managers
+2.0,21.0,213.0,2134.0,IT project and programme managers
+2.0,21.0,213.0,2135.0,"IT business analysts, architects and systems designers"
+2.0,21.0,213.0,2136.0,Programmers and software development professionals
+2.0,21.0,213.0,2137.0,Web design and development professionals
+2.0,21.0,213.0,2139.0,Information technology and telecommunications professionals n.e.c.
+2.0,21.0,214.0,,Conservation and Environment Professionals
+2.0,21.0,214.0,2141.0,Conservation professionals
+2.0,21.0,214.0,2142.0,Environment professionals
+2.0,21.0,215.0,,Research and Development Managers 
+2.0,21.0,215.0,2150.0,Research and development managers
+2.0,22.0,215.0,,HEALTH PROFESSIONALS
+2.0,22.0,221.0,,Health Professionals
+2.0,22.0,221.0,2211.0,Medical practitioners
+2.0,22.0,221.0,2212.0,Psychologists
+2.0,22.0,221.0,2213.0,Pharmacists
+2.0,22.0,221.0,2214.0,Ophthalmic opticians
+2.0,22.0,221.0,2215.0,Dental practitioners
+2.0,22.0,221.0,2216.0,Veterinarians
+2.0,22.0,221.0,2217.0,Medical radiographers
+2.0,22.0,221.0,2218.0,Podiatrists
+2.0,22.0,221.0,2219.0,Health professionals n.e.c.
+2.0,22.0,222.0,,Therapy Professionals
+2.0,22.0,222.0,2221.0,Physiotherapists
+2.0,22.0,222.0,2222.0,Occupational therapists
+2.0,22.0,222.0,2223.0,Speech and language therapists
+2.0,22.0,222.0,2229.0,Therapy professionals n.e.c.
+2.0,22.0,223.0,,Nursing and Midwifery Professionals
+2.0,22.0,223.0,2231.0,Nurses
+2.0,22.0,223.0,2232.0,Midwives
+2.0,23.0,223.0,,TEACHING AND EDUCATIONAL PROFESSIONALS
+2.0,23.0,231.0,,Teaching and Educational Professionals
+2.0,23.0,231.0,2311.0,Higher education teaching professionals
+2.0,23.0,231.0,2312.0,Further education teaching professionals
+2.0,23.0,231.0,2314.0,Secondary education teaching professionals
+2.0,23.0,231.0,2315.0,Primary and nursery education teaching professionals
+2.0,23.0,231.0,2316.0,Special needs education teaching professionals
+2.0,23.0,231.0,2317.0,Senior professionals of educational establishments
+2.0,23.0,231.0,2318.0,Education advisers and school inspectors
+2.0,23.0,231.0,2319.0,Teaching and other educational professionals n.e.c.
+2.0,24.0,231.0,,"BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS"
+2.0,24.0,241.0,,Legal Professionals
+2.0,24.0,241.0,2412.0,Barristers and judges
+2.0,24.0,241.0,2413.0,Solicitors
+2.0,24.0,241.0,2419.0,Legal professionals n.e.c.
+2.0,24.0,242.0,,"Business, Research and Administrative Professionals"
+2.0,24.0,242.0,2421.0,Chartered and certified accountants
+2.0,24.0,242.0,2423.0,Management consultants and business analysts
+2.0,24.0,242.0,2424.0,Business and financial project management professionals
+2.0,24.0,242.0,2425.0,"Actuaries, economists and statisticians"
+2.0,24.0,242.0,2426.0,Business and related research professionals
+2.0,24.0,242.0,2429.0,"Business, research and administrative professionals n.e.c."
+2.0,24.0,243.0,,"Architects, Town Planners and Surveyors"
+2.0,24.0,243.0,2431.0,Architects
+2.0,24.0,243.0,2432.0,Town planning officers
+2.0,24.0,243.0,2433.0,Quantity surveyors
+2.0,24.0,243.0,2434.0,Chartered surveyors
+2.0,24.0,243.0,2435.0,Chartered architectural technologists
+2.0,24.0,243.0,2436.0,Construction project managers and related professionals
+2.0,24.0,244.0,,Welfare Professionals
+2.0,24.0,244.0,2442.0,Social workers
+2.0,24.0,244.0,2443.0,Probation officers
+2.0,24.0,244.0,2444.0,Clergy
+2.0,24.0,244.0,2449.0,Welfare professionals n.e.c.
+2.0,24.0,245.0,,Librarians and Related Professionals
+2.0,24.0,245.0,2451.0,Librarians
+2.0,24.0,245.0,2452.0,Archivists and curators
+2.0,24.0,246.0,,Quality and Regulatory Professionals
+2.0,24.0,246.0,2461.0,Quality control and planning engineers
+2.0,24.0,246.0,2462.0,Quality assurance and regulatory professionals
+2.0,24.0,246.0,2463.0,Environmental health professionals
+2.0,24.0,247.0,,Media Professionals
+2.0,24.0,247.0,2471.0,"Journalists, newspaper and periodical editors"
+2.0,24.0,247.0,2472.0,Public relations professionals
+2.0,24.0,247.0,2473.0,Advertising accounts managers and creative directors
+3.0,,,,ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS
+3.0,31.0,,,"SCIENCE, ENGINEERING AND TECHNOLOGY ASSOCIATE PROFESSIONALS"
+3.0,31.0,311.0,,"Science, Engineering and Production Technicians"
+3.0,31.0,311.0,3111.0,Laboratory technicians
+3.0,31.0,311.0,3112.0,Electrical and electronics technicians
+3.0,31.0,311.0,3113.0,Engineering technicians
+3.0,31.0,311.0,3114.0,Building and civil engineering technicians
+3.0,31.0,311.0,3115.0,Quality assurance technicians
+3.0,31.0,311.0,3116.0,"Planning, process and production technicians"
+3.0,31.0,311.0,3119.0,"Science, engineering and production technicians n.e.c."
+3.0,31.0,312.0,,Draughtspersons and Related Architectural Technicians
+3.0,31.0,312.0,3121.0,Architectural and town planning technicians
+3.0,31.0,312.0,3122.0,Draughtspersons
+3.0,31.0,313.0,,Information Technology Technicians
+3.0,31.0,313.0,3131.0,IT operations technicians
+3.0,31.0,313.0,3132.0,IT user support technicians
+3.0,32.0,313.0,,HEALTH AND SOCIAL CARE ASSOCIATE PROFESSIONALS
+3.0,32.0,321.0,,Health Associate Professionals
+3.0,32.0,321.0,3213.0,Paramedics
+3.0,32.0,321.0,3216.0,Dispensing opticians
+3.0,32.0,321.0,3217.0,Pharmaceutical technicians
+3.0,32.0,321.0,3218.0,Medical and dental technicians
+3.0,32.0,321.0,3219.0,Health associate professionals n.e.c.
+3.0,32.0,323.0,,Welfare and Housing Associate Professionals
+3.0,32.0,323.0,3231.0,Youth and community workers
+3.0,32.0,323.0,3233.0,Child and early years officers
+3.0,32.0,323.0,3234.0,Housing officers
+3.0,32.0,323.0,3235.0,Counsellors
+3.0,32.0,323.0,3239.0,Welfare and housing associate professionals n.e.c.
+3.0,33.0,323.0,,PROTECTIVE SERVICE OCCUPATIONS
+3.0,33.0,331.0,,Protective Service Occupations
+3.0,33.0,331.0,3311.0,NCOs and other ranks
+3.0,33.0,331.0,3312.0,Police officers (sergeant and below)
+3.0,33.0,331.0,3313.0,Fire service officers (watch manager and below)
+3.0,33.0,331.0,3314.0,Prison service officers (below principal officer)
+3.0,33.0,331.0,3315.0,Police community support officers
+3.0,33.0,331.0,3319.0,Protective service associate professionals n.e.c.
+3.0,34.0,331.0,,"CULTURE, MEDIA AND SPORTS OCCUPATIONS"
+3.0,34.0,341.0,,"Artistic, Literary and Media Occupations"
+3.0,34.0,341.0,3411.0,Artists
+3.0,34.0,341.0,3412.0,"Authors, writers and translators"
+3.0,34.0,341.0,3413.0,"Actors, entertainers and presenters"
+3.0,34.0,341.0,3414.0,Dancers and choreographers
+3.0,34.0,341.0,3415.0,Musicians
+3.0,34.0,341.0,3416.0,"Arts officers, producers and directors"
+3.0,34.0,341.0,3417.0,"Photographers, audio-visual and broadcasting equipment operators"
+3.0,34.0,342.0,,Design Occupations
+3.0,34.0,342.0,3421.0,Graphic designers
+3.0,34.0,342.0,3422.0,"Product, clothing and related designers"
+3.0,34.0,344.0,,Sports and Fitness Occupations
+3.0,34.0,344.0,3441.0,Sports players
+3.0,34.0,344.0,3442.0,"Sports coaches, instructors and officials"
+3.0,34.0,344.0,3443.0,Fitness instructors
+3.0,35.0,344.0,,BUSINESS AND PUBLIC SERVICE ASSOCIATE PROFESSIONALS
+3.0,35.0,351.0,,Transport Associate Professionals
+3.0,35.0,351.0,3511.0,Air traffic controllers
+3.0,35.0,351.0,3512.0,Aircraft pilots and flight engineers
+3.0,35.0,351.0,3513.0,Ship and hovercraft officers
+3.0,35.0,352.0,,Legal Associate Professionals
+3.0,35.0,352.0,3520.0,Legal associate professionals
+3.0,35.0,353.0,,"Business, Finance and Related Associate Professionals"
+3.0,35.0,353.0,3531.0,"Estimators, valuers and assessors"
+3.0,35.0,353.0,3532.0,Brokers
+3.0,35.0,353.0,3533.0,Insurance underwriters
+3.0,35.0,353.0,3534.0,Finance and investment analysts and advisers
+3.0,35.0,353.0,3535.0,Taxation experts
+3.0,35.0,353.0,3536.0,Importers and exporters
+3.0,35.0,353.0,3537.0,Financial and accounting technicians
+3.0,35.0,353.0,3538.0,Financial accounts managers
+3.0,35.0,353.0,3539.0,Business and related associate professionals n.e.c.
+3.0,35.0,354.0,,"Sales, Marketing and Related Associate Professionals"
+3.0,35.0,354.0,3541.0,Buyers and procurement officers
+3.0,35.0,354.0,3542.0,Business sales executives
+3.0,35.0,354.0,3543.0,Marketing associate professionals
+3.0,35.0,354.0,3544.0,Estate agents and auctioneers
+3.0,35.0,354.0,3545.0,Sales accounts and business development managers
+3.0,35.0,354.0,3546.0,Conference and exhibition managers and organisers
+3.0,35.0,355.0,,Conservation and Environmental Associate Professionals
+3.0,35.0,355.0,3550.0,Conservation and environmental associate professionals
+3.0,35.0,356.0,,Public Services and Other Associate Professionals
+3.0,35.0,356.0,3561.0,Public services associate professionals
+3.0,35.0,356.0,3562.0,Human resources and industrial relations officers
+3.0,35.0,356.0,3563.0,Vocational and industrial trainers and instructors
+3.0,35.0,356.0,3564.0,Careers advisers and vocational guidance specialists
+3.0,35.0,356.0,3565.0,Inspectors of standards and regulations
+3.0,35.0,356.0,3567.0,Health and safety officers
+4.0,,,,ADMINISTRATIVE AND SECRETARIAL OCCUPATIONS
+4.0,41.0,,,ADMINISTRATIVE OCCUPATIONS
+4.0,41.0,411.0,,Administrative Occupations: Government and Related Organisations
+4.0,41.0,411.0,4112.0,National government administrative occupations
+4.0,41.0,411.0,4113.0,Local government administrative occupations
+4.0,41.0,411.0,4114.0,Officers of non-governmental organisations
+4.0,41.0,412.0,,Administrative Occupations: Finance
+4.0,41.0,412.0,4121.0,Credit controllers
+4.0,41.0,412.0,4122.0,"Book-keepers, payroll managers and wages clerks"
+4.0,41.0,412.0,4123.0,Bank and post office clerks
+4.0,41.0,412.0,4124.0,Finance officers
+4.0,41.0,412.0,4129.0,Financial administrative occupations n.e.c.
+4.0,41.0,413.0,,Administrative Occupations: Records
+4.0,41.0,413.0,4131.0,Records clerks and assistants
+4.0,41.0,413.0,4132.0,Pensions and insurance clerks and assistants
+4.0,41.0,413.0,4133.0,Stock control clerks and assistants
+4.0,41.0,413.0,4134.0,Transport and distribution clerks and assistants
+4.0,41.0,413.0,4135.0,Library clerks and assistants
+4.0,41.0,413.0,4138.0,Human resources administrative occupations
+4.0,41.0,415.0,,Other Administrative Occupations
+4.0,41.0,415.0,4151.0,Sales administrators
+4.0,41.0,415.0,4159.0,Other administrative occupations n.e.c.
+4.0,41.0,416.0,,Administrative Occupations: Office Managers and Supervisors
+4.0,41.0,416.0,4161.0,Office managers
+4.0,41.0,416.0,4162.0,Office supervisors
+4.0,42.0,416.0,,SECRETARIAL AND RELATED OCCUPATIONS
+4.0,42.0,421.0,,Secretarial and Related Occupations
+4.0,42.0,421.0,4211.0,Medical secretaries
+4.0,42.0,421.0,4212.0,Legal secretaries
+4.0,42.0,421.0,4213.0,School secretaries
+4.0,42.0,421.0,4214.0,Company secretaries
+4.0,42.0,421.0,4215.0,Personal assistants and other secretaries
+4.0,42.0,421.0,4216.0,Receptionists
+4.0,42.0,421.0,4217.0,Typists and related keyboard occupations
+5.0,,,,SKILLED TRADES OCCUPATIONS
+5.0,51.0,,,SKILLED AGRICULTURAL AND RELATED TRADES
+5.0,51.0,511.0,,Agricultural and Related Trades
+5.0,51.0,511.0,5111.0,Farmers
+5.0,51.0,511.0,5112.0,Horticultural trades
+5.0,51.0,511.0,5113.0,Gardeners and landscape gardeners
+5.0,51.0,511.0,5114.0,Groundsmen and greenkeepers
+5.0,51.0,511.0,5119.0,Agricultural and fishing trades n.e.c.
+5.0,52.0,511.0,,"SKILLED METAL, ELECTRICAL AND ELECTRONIC TRADES"
+5.0,52.0,521.0,,"Metal Forming, Welding and Related Trades"
+5.0,52.0,521.0,5211.0,Smiths and forge workers
+5.0,52.0,521.0,5212.0,"Moulders, core makers and die casters"
+5.0,52.0,521.0,5213.0,Sheet metal workers
+5.0,52.0,521.0,5214.0,"Metal plate workers, and riveters"
+5.0,52.0,521.0,5215.0,Welding trades
+5.0,52.0,521.0,5216.0,Pipe fitters
+5.0,52.0,522.0,,"Metal Machining, Fitting and Instrument Making Trades"
+5.0,52.0,522.0,5221.0,Metal machining setters and setter-operators
+5.0,52.0,522.0,5222.0,"Tool makers, tool fitters and markers-out"
+5.0,52.0,522.0,5223.0,Metal working production and maintenance fitters
+5.0,52.0,522.0,5224.0,Precision instrument makers and repairers
+5.0,52.0,522.0,5225.0,Air-conditioning and refrigeration engineers
+5.0,52.0,523.0,,Vehicle Trades
+5.0,52.0,523.0,5231.0,"Vehicle technicians, mechanics and electricians"
+5.0,52.0,523.0,5232.0,Vehicle body builders and repairers 
+5.0,52.0,523.0,5234.0,Vehicle paint technicians
+5.0,52.0,523.0,5235.0,Aircraft maintenance and related trades
+5.0,52.0,523.0,5236.0,Boat and ship builders and repairers
+5.0,52.0,523.0,5237.0,Rail and rolling stock builders and repairers
+5.0,52.0,524.0,,Electrical and Electronic Trades
+5.0,52.0,524.0,5241.0,Electricians and electrical fitters
+5.0,52.0,524.0,5242.0,Telecommunications engineers
+5.0,52.0,524.0,5244.0,"TV, video and audio engineers"
+5.0,52.0,524.0,5245.0,IT engineers
+5.0,52.0,524.0,5249.0,Electrical and electronic trades n.e.c.
+5.0,52.0,525.0,,"Skilled Metal, Electrical and Electronic Trades Supervisors"
+5.0,52.0,525.0,5250.0,"Skilled metal, electrical and electronic trades supervisors"
+5.0,53.0,525.0,,SKILLED CONSTRUCTION AND BUILDING TRADES
+5.0,53.0,531.0,,Construction and Building Trades
+5.0,53.0,531.0,5311.0,Steel erectors
+5.0,53.0,531.0,5312.0,Bricklayers and masons
+5.0,53.0,531.0,5313.0,"Roofers, roof tilers and slaters"
+5.0,53.0,531.0,5314.0,Plumbers and heating and ventilating engineers
+5.0,53.0,531.0,5315.0,Carpenters and joiners
+5.0,53.0,531.0,5316.0,"Glaziers, window fabricators and fitters"
+5.0,53.0,531.0,5319.0,Construction and building trades n.e.c.
+5.0,53.0,532.0,,Building Finishing Trades
+5.0,53.0,532.0,5321.0,Plasterers
+5.0,53.0,532.0,5322.0,Floorers and wall tilers
+5.0,53.0,532.0,5323.0,Painters and decorators
+5.0,53.0,533.0,,Construction and Building Trades Supervisors
+5.0,53.0,533.0,5330.0,Construction and building trades supervisors
+5.0,54.0,533.0,,"TEXTILES, PRINTING AND OTHER SKILLED TRADES"
+5.0,54.0,541.0,,Textiles and Garments Trades
+5.0,54.0,541.0,5411.0,Weavers and knitters
+5.0,54.0,541.0,5412.0,Upholsterers
+5.0,54.0,541.0,5413.0,Footwear and leather working trades
+5.0,54.0,541.0,5414.0,Tailors and dressmakers
+5.0,54.0,541.0,5419.0,"Textiles, garments and related trades n.e.c."
+5.0,54.0,542.0,,Printing Trades
+5.0,54.0,542.0,5421.0,Pre-press technicians
+5.0,54.0,542.0,5422.0,Printers
+5.0,54.0,542.0,5423.0,Print finishing and binding workers
+5.0,54.0,543.0,,Food Preparation and Hospitality Trades
+5.0,54.0,543.0,5431.0,Butchers
+5.0,54.0,543.0,5432.0,Bakers and flour confectioners
+5.0,54.0,543.0,5433.0,Fishmongers and poultry dressers
+5.0,54.0,543.0,5434.0,Chefs
+5.0,54.0,543.0,5435.0,Cooks
+5.0,54.0,543.0,5436.0,Catering and bar managers
+5.0,54.0,544.0,,Other Skilled Trades
+5.0,54.0,544.0,5441.0,"Glass and ceramics makers, decorators and finishers"
+5.0,54.0,544.0,5442.0,Furniture makers and other craft woodworkers
+5.0,54.0,544.0,5443.0,Florists
+5.0,54.0,544.0,5449.0,Other skilled trades n.e.c.
+6.0,,,,"CARING, LEISURE AND OTHER SERVICE OCCUPATIONS"
+6.0,61.0,,,CARING PERSONAL SERVICE OCCUPATIONS
+6.0,61.0,612.0,,Childcare and Related Personal Services
+6.0,61.0,612.0,6121.0,Nursery nurses and assistants
+6.0,61.0,612.0,6122.0,Childminders and related occupations
+6.0,61.0,612.0,6123.0,Playworkers
+6.0,61.0,612.0,6125.0,Teaching assistants
+6.0,61.0,612.0,6126.0,Educational support assistants
+6.0,61.0,613.0,,Animal Care and Control Services
+6.0,61.0,613.0,6131.0,Veterinary nurses
+6.0,61.0,613.0,6132.0,Pest control officers
+6.0,61.0,613.0,6139.0,Animal care services occupations n.e.c.
+6.0,61.0,614.0,,Caring Personal Services
+6.0,61.0,614.0,6141.0,Nursing auxiliaries and assistants
+6.0,61.0,614.0,6142.0,Ambulance staff (excluding paramedics)
+6.0,61.0,614.0,6143.0,Dental nurses
+6.0,61.0,614.0,6144.0,Houseparents and residential wardens
+6.0,61.0,614.0,6145.0,Care workers and home carers
+6.0,61.0,614.0,6146.0,Senior care workers
+6.0,61.0,614.0,6147.0,Care escorts
+6.0,61.0,614.0,6148.0,"Undertakers, mortuary and crematorium assistants"
+6.0,62.0,614.0,,"LEISURE, TRAVEL AND RELATED PERSONAL SERVICE OCCUPATIONS"
+6.0,62.0,621.0,,Leisure and Travel Services
+6.0,62.0,621.0,6211.0,Sports and leisure assistants
+6.0,62.0,621.0,6212.0,Travel agents
+6.0,62.0,621.0,6214.0,Air travel assistants
+6.0,62.0,621.0,6215.0,Rail travel assistants
+6.0,62.0,621.0,6219.0,Leisure and travel service occupations n.e.c.
+6.0,62.0,622.0,,Hairdressers and Related Services
+6.0,62.0,622.0,6221.0,Hairdressers and barbers
+6.0,62.0,622.0,6222.0,Beauticians and related occupations
+6.0,62.0,623.0,,Housekeeping and Related Services
+6.0,62.0,623.0,6231.0,Housekeepers and related occupations
+6.0,62.0,623.0,6232.0,Caretakers
+6.0,62.0,624.0,,Cleaning and Housekeeping Managers and Supervisors
+6.0,62.0,624.0,6240.0,Cleaning and housekeeping managers and supervisors
+7.0,,,,SALES AND CUSTOMER SERVICE OCCUPATIONS
+7.0,71.0,,,SALES OCCUPATIONS
+7.0,71.0,711.0,,Sales Assistants and Retail Cashiers
+7.0,71.0,711.0,7111.0,Sales and retail assistants
+7.0,71.0,711.0,7112.0,Retail cashiers and check-out operators
+7.0,71.0,711.0,7113.0,Telephone salespersons
+7.0,71.0,711.0,7114.0,Pharmacy and other dispensing assistants
+7.0,71.0,711.0,7115.0,Vehicle and parts salespersons and advisers
+7.0,71.0,712.0,,Sales Related Occupations
+7.0,71.0,712.0,7121.0,Collector salespersons and credit agents
+7.0,71.0,712.0,7122.0,"Debt, rent and other cash collectors"
+7.0,71.0,712.0,7123.0,Roundspersons and van salespersons
+7.0,71.0,712.0,7124.0,Market and street traders and assistants
+7.0,71.0,712.0,7125.0,Merchandisers and window dressers
+7.0,71.0,712.0,7129.0,Sales related occupations n.e.c.
+7.0,71.0,713.0,,Sales Supervisors
+7.0,71.0,713.0,7130.0,Sales supervisors
+7.0,72.0,713.0,,CUSTOMER SERVICE OCCUPATIONS
+7.0,72.0,721.0,,Customer Service Occupations
+7.0,72.0,721.0,7211.0,Call and contact centre occupations
+7.0,72.0,721.0,7213.0,Telephonists
+7.0,72.0,721.0,7214.0,Communication operators
+7.0,72.0,721.0,7215.0,Market research interviewers
+7.0,72.0,721.0,7219.0,Customer service occupations n.e.c.
+7.0,72.0,722.0,,Customer Service Managers and Supervisors
+7.0,72.0,722.0,7220.0,Customer service managers and supervisors
+8.0,,,,"PROCESS, PLANT AND MACHINE OPERATIVES"
+8.0,81.0,,,"PROCESS, PLANT AND MACHINE OPERATIVES"
+8.0,81.0,811.0,,Process Operatives
+8.0,81.0,811.0,8111.0,"Food, drink and tobacco process operatives"
+8.0,81.0,811.0,8112.0,Glass and ceramics process operatives
+8.0,81.0,811.0,8113.0,Textile process operatives
+8.0,81.0,811.0,8114.0,Chemical and related process operatives
+8.0,81.0,811.0,8115.0,Rubber process operatives
+8.0,81.0,811.0,8116.0,Plastics process operatives
+8.0,81.0,811.0,8117.0,Metal making and treating process operatives
+8.0,81.0,811.0,8118.0,Electroplaters
+8.0,81.0,811.0,8119.0,Process operatives n.e.c.
+8.0,81.0,812.0,,Plant and Machine Operatives
+8.0,81.0,812.0,8121.0,Paper and wood machine operatives
+8.0,81.0,812.0,8122.0,Coal mine operatives
+8.0,81.0,812.0,8123.0,Quarry workers and related operatives
+8.0,81.0,812.0,8124.0,Energy plant operatives
+8.0,81.0,812.0,8125.0,Metal working machine operatives
+8.0,81.0,812.0,8126.0,Water and sewerage plant operatives
+8.0,81.0,812.0,8127.0,Printing machine assistants
+8.0,81.0,812.0,8129.0,Plant and machine operatives n.e.c.
+8.0,81.0,813.0,,Assemblers and Routine Operatives
+8.0,81.0,813.0,8131.0,Assemblers (electrical and electronic products)
+8.0,81.0,813.0,8132.0,Assemblers (vehicles and metal goods)
+8.0,81.0,813.0,8133.0,Routine inspectors and testers
+8.0,81.0,813.0,8134.0,"Weighers, graders and sorters"
+8.0,81.0,813.0,8135.0,"Tyre, exhaust and windscreen fitters"
+8.0,81.0,813.0,8137.0,Sewing machinists
+8.0,81.0,813.0,8139.0,Assemblers and routine operatives n.e.c.
+8.0,81.0,814.0,,Construction Operatives
+8.0,81.0,814.0,8141.0,"Scaffolders, stagers and riggers"
+8.0,81.0,814.0,8142.0,Road construction operatives
+8.0,81.0,814.0,8143.0,Rail construction and maintenance operatives
+8.0,81.0,814.0,8149.0,Construction operatives n.e.c.
+8.0,82.0,814.0,,TRANSPORT AND MOBILE MACHINE DRIVERS AND OPERATIVES
+8.0,82.0,821.0,,Road Transport Drivers
+8.0,82.0,821.0,8211.0,Large goods vehicle drivers
+8.0,82.0,821.0,8212.0,Van drivers
+8.0,82.0,821.0,8213.0,Bus and coach drivers
+8.0,82.0,821.0,8214.0,Taxi and cab drivers and chauffeurs
+8.0,82.0,821.0,8215.0,Driving instructors
+8.0,82.0,822.0,,Mobile Machine Drivers and Operatives
+8.0,82.0,822.0,8221.0,Crane drivers
+8.0,82.0,822.0,8222.0,Fork-lift truck drivers
+8.0,82.0,822.0,8223.0,Agricultural machinery drivers
+8.0,82.0,822.0,8229.0,Mobile machine drivers and operatives n.e.c.
+8.0,82.0,823.0,,Other Drivers and Transport Operatives
+8.0,82.0,823.0,8231.0,Train and tram drivers
+8.0,82.0,823.0,8232.0,Marine and waterways transport operatives
+8.0,82.0,823.0,8233.0,Air transport operatives
+8.0,82.0,823.0,8234.0,Rail transport operatives
+8.0,82.0,823.0,8239.0,Other drivers and transport operatives n.e.c.
+9.0,,,,ELEMENTARY OCCUPATIONS
+9.0,91.0,,,ELEMENTARY TRADES AND RELATED OCCUPATIONS
+9.0,91.0,911.0,,Elementary Agricultural Occupations
+9.0,91.0,911.0,9111.0,Farm workers
+9.0,91.0,911.0,9112.0,Forestry workers
+9.0,91.0,911.0,9119.0,Fishing and other elementary agriculture occupations n.e.c.
+9.0,91.0,912.0,,Elementary Construction Occupations
+9.0,91.0,912.0,9120.0,Elementary construction occupations
+9.0,91.0,913.0,,Elementary Process Plant Occupations
+9.0,91.0,913.0,9132.0,Industrial cleaning process occupations
+9.0,91.0,913.0,9134.0,"Packers, bottlers, canners and fillers"
+9.0,91.0,913.0,9139.0,Elementary process plant occupations n.e.c.
+9.0,92.0,913.0,,ELEMENTARY ADMINISTRATION AND SERVICE OCCUPATIONS
+9.0,92.0,921.0,,Elementary Administration Occupations
+9.0,92.0,921.0,9211.0,"Postal workers, mail sorters, messengers and couriers"
+9.0,92.0,921.0,9219.0,Elementary administration occupations n.e.c.
+9.0,92.0,923.0,,Elementary Cleaning Occupations
+9.0,92.0,923.0,9231.0,Window cleaners
+9.0,92.0,923.0,9232.0,Street cleaners
+9.0,92.0,923.0,9233.0,Cleaners and domestics
+9.0,92.0,923.0,9234.0,"Launderers, dry cleaners and pressers"
+9.0,92.0,923.0,9235.0,Refuse and salvage occupations
+9.0,92.0,923.0,9236.0,Vehicle valeters and cleaners
+9.0,92.0,923.0,9239.0,Elementary cleaning occupations n.e.c.
+9.0,92.0,924.0,,Elementary Security Occupations
+9.0,92.0,924.0,9241.0,Security guards and related occupations
+9.0,92.0,924.0,9242.0,Parking and civil enforcement occupations
+9.0,92.0,924.0,9244.0,School midday and crossing patrol occupations
+9.0,92.0,924.0,9249.0,Elementary security occupations n.e.c.
+9.0,92.0,925.0,,Elementary Sales Occupations
+9.0,92.0,925.0,9251.0,Shelf fillers
+9.0,92.0,925.0,9259.0,Elementary sales occupations n.e.c.
+9.0,92.0,926.0,,Elementary Storage Occupations
+9.0,92.0,926.0,9260.0,Elementary storage occupations
+9.0,92.0,927.0,,Other Elementary Services Occupations
+9.0,92.0,927.0,9271.0,Hospital porters
+9.0,92.0,927.0,9272.0,Kitchen and catering assistants
+9.0,92.0,927.0,9273.0,Waiters and waitresses
+9.0,92.0,927.0,9274.0,Bar staff
+9.0,92.0,927.0,9275.0,Leisure and theme park attendants
+9.0,92.0,927.0,9279.0,Other elementary services occupations n.e.c.

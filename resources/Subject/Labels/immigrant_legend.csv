@@ -1,0 +1,264 @@
+Code,Geographical region,Country of nationality
+AFN,Africa North,Total Africa North
+AFS,Africa Sub-Saharan,Total Africa Sub-Saharan
+AFN.1,America North,Total America North
+ACS,America Central and South ,Total America Central and South  
+ACE,Asia Central,Total Asia Central
+AEA,Asia East,Total Asia East
+ASO,Asia South,Total Asia South
+ASE,Asia South East,Total Asia South East
+EU1,EU 14,Total EU 14
+EU2,EU 2,Total EU 2
+EU8,EU 8,Total EU 8
+EUO,EU Other,Total EU Other
+ERO,Europe Other,Total Europe Other
+MIE,Middle East,Total Middle East
+OCE,Oceania,Total Oceania
+OTH,Other,Total Other
+ACE-AFG,Asia Central,Afghanistan
+ERO-ALB,Europe Other,Albania
+AFN-ALG,Africa North,Algeria
+OCE-AMS,Oceania,American Samoa
+ERO-AND,Europe Other,Andorra
+AFS-ANG,Africa Sub-Saharan,Angola
+OTH-ANG,Other,Anguilla (British)
+ACS-AAB,America Central and South ,Antigua and Barbuda
+ACS-ARG,America Central and South ,Argentina
+ERO-ARM,Europe Other,Armenia
+ACS-ARU,America Central and South ,Aruba
+OCE-AUS,Oceania,Australia
+EU1-AUS,EU 14,Austria
+ERO-AZR,Europe Other,Azerbaijan
+ACS-BHM,America Central and South ,"Bahamas, The"
+MIE-BHR,Middle East,Bahrain
+ASO-BAN,Asia South,Bangladesh
+ACS-BAR,America Central and South ,Barbados
+ERO-BLA,Europe Other,Belarus
+EU1-BLG,EU 14,Belgium
+ACS-BLZ,America Central and South ,Belize
+AFS-BEN,Africa Sub-Saharan,Benin
+OTH-BRM,Other,Bermuda (British)
+ASO-BHU,Asia South,Bhutan
+ACS-BLV,America Central and South ,Bolivia
+ACS-BSS,America Central and South ,"Bonaire, Sint Eustatius and Saba"
+ERO-BAH,Europe Other,Bosnia and Herzegovina
+AFS-BTS,Africa Sub-Saharan,Botswana
+ACS-BRA,America Central and South ,Brazil
+OTH-BOC,Other,British overseas citizens
+ASE-BRN,Asia South East,Brunei
+EU2-BLG,EU 2,Bulgaria
+AFS-BRK,Africa Sub-Saharan,Burkina
+ASE-BRM,Asia South East,Burma
+AFS-BRD,Africa Sub-Saharan,Burundi
+ASE-CBD,Asia South East,Cambodia
+AFS-CMR,Africa Sub-Saharan,Cameroon
+AMN-CND,America North,Canada
+AFS-CVD,Africa Sub-Saharan,Cape Verde
+OTH-CMI,Other,Cayman Islands (British)
+AFS-CAR,Africa Sub-Saharan,Central African Republic
+AFS-CHD,Africa Sub-Saharan,Chad
+ACS-CHL,America Central and South ,Chile
+AEA-CHI,Asia East,China
+OCE-CIS,Oceania,Christmas Island
+OCE-CKI,Oceania,Cocos (Keeling) Islands
+ACS-COL,America Central and South ,Colombia
+AFS-COM,Africa Sub-Saharan,Comoros
+AFS-CNG,Africa Sub-Saharan,Congo
+AFS-CDR,Africa Sub-Saharan,Congo (Democratic Republic)
+OCE-CIS.1,Oceania,Cook Islands
+ACS-CTR,America Central and South ,Costa Rica
+EUO-CRO,EU Other,Croatia
+ACS-CUB,America Central and South ,Cuba
+ACS-CRC,America Central and South ,Curacao
+EUO-CPR,EU Other,Cyprus
+ERO-CPR,Europe Other,Cyprus (Northern part of)
+EU8-CZR,EU 8,Czech Republic
+EU1-DEN,EU 14,Denmark
+AFS-DJI,Africa Sub-Saharan,Djibouti
+ACS-DMN,America Central and South ,Dominica
+ACS-DMR,America Central and South ,Dominican Republic
+ASE-ETM,Asia South East,East Timor
+ACS-ECD,America Central and South ,Ecuador
+AFN-EGP,Africa North,Egypt
+ACS-ESV,America Central and South ,El Salvador
+AFS-EQG,Africa Sub-Saharan,Equatorial Guinea
+AFS-ERT,Africa Sub-Saharan,Eritrea
+EU8-EST,EU 8,Estonia
+AFS-ETH,Africa Sub-Saharan,Ethiopia
+OTH-FIB,Other,Falkland Islands (British)
+ERO-FRI,Europe Other,Faroe Islands
+OCE-FIJ,Oceania,Fiji
+EU1-FIN,EU 14,Finland
+ERO-FYS,Europe Other,Former Yugoslavia
+EU1-FRA,EU 14,France
+ACS-FRG,America Central and South ,French Guiana
+OCE-FPN,Oceania,French Polynesia
+AFS-GAB,Africa Sub-Saharan,Gabon
+AFS-GMB,Africa Sub-Saharan,"Gambia, The"
+ERO-GRG,Europe Other,Georgia
+EU1-GER,EU 14,Germany
+AFS-GHN,Africa Sub-Saharan,Ghana
+OTH-GBL,Other,Gibraltar (British)
+EU1-GRE,EU 14,Greece
+ERO-GRL,Europe Other,Greenland
+ACS-GRN,America Central and South ,Grenada
+ACS-GDL,America Central and South ,Guadeloupe
+OCE-GUA,Oceania,Guam
+ACS-GTM,America Central and South ,Guatemala
+AFS-GNE,Africa Sub-Saharan,Guinea
+AFS-GNB,Africa Sub-Saharan,Guinea-Bissau
+ACS-GUY,America Central and South ,Guyana
+ACS-HAI,America Central and South ,Haiti
+OCE-HIM,Oceania,Heard Island and McDonald Islands
+ACS-HND,America Central and South ,Honduras
+AEA-HKO,Asia East,Hong Kong
+EU8-HNG,EU 8,Hungary
+ERO-ICE,Europe Other,Iceland
+ASO-IND,Asia South,India
+ASE-IDN,Asia South East,Indonesia
+MIE-IRN,Middle East,Iran
+MIE-IRQ,Middle East,Iraq
+EU1-IRL,EU 14,Ireland
+MIE-ISR,Middle East,Israel
+EU1-ITA,EU 14,Italy
+AFS-IVC,Africa Sub-Saharan,Ivory Coast
+ACS-JMC,America Central and South ,Jamaica
+AEA-JAP,Asia East,Japan
+MIE-JRD,Middle East,Jordan
+ACE-KHZ,Asia Central,Kazakhstan
+AFS-KNY,Africa Sub-Saharan,Kenya
+OCE-KRB,Oceania,Kiribati
+AEA-KRN,Asia East,Korea (North)
+AEA-KRS,Asia East,Korea (South)
+ERO-KSV,Europe Other,Kosovo
+MIE-KUW,Middle East,Kuwait
+ACE-KRG,Asia Central,Kyrgyzstan
+ASE-LAO,Asia South East,Laos
+EU8-LTV,EU 8,Latvia
+MIE-LBN,Middle East,Lebanon
+AFS-LST,Africa Sub-Saharan,Lesotho
+AFS-LBR,Africa Sub-Saharan,Liberia
+AFN-LBY,Africa North,Libya
+ERO-LTS,Europe Other,Liechtenstein
+EU8-LIT,EU 8,Lithuania
+EU1-LXB,EU 14,Luxembourg
+AEA-MAC,Asia East,Macau
+ERO-MCD,Europe Other,Macedonia
+AFS-MDG,Africa Sub-Saharan,Madagascar
+AFS-MLW,Africa Sub-Saharan,Malawi
+ASE-MLS,Asia South East,Malaysia
+ASO-MDV,Asia South,Maldives
+AFS-MAL,Africa Sub-Saharan,Mali
+EUO-MLT,EU Other,Malta
+OCE-MSI,Oceania,Marshall Islands
+ACS-MTQ,America Central and South ,Martinique
+AFN-MAU,Africa North,Mauritania
+AFS-MRT,Africa Sub-Saharan,Mauritius
+AFS-MYT,Africa Sub-Saharan,Mayotte
+ACS-MEX,America Central and South ,Mexico
+OCE-MCR,Oceania,Micronesia
+ERO-MDV,Europe Other,Moldova
+ERO-MNC,Europe Other,Monaco
+AEA-MNG,Asia East,Mongolia
+ERO-MNT,Europe Other,Montenegro
+OTH-MSR,Other,Montserrat (British)
+AFN-MRC,Africa North,Morocco
+AFS-MOZ,Africa Sub-Saharan,Mozambique
+AFS-NMB,Africa Sub-Saharan,Namibia
+OCE-NAU,Oceania,Nauru
+ASO-NPL,Asia South,Nepal
+EU1-NTL,EU 14,Netherlands
+ACS-NLA,America Central and South ,Netherlands Antilles
+OCE-NCD,Oceania,New Caledonia
+OCE-NZE,Oceania,New Zealand
+ACS-NIC,America Central and South ,Nicaragua
+AFS-NIG,Africa Sub-Saharan,Niger
+AFS-NGR,Africa Sub-Saharan,Nigeria
+OCE-NIU,Oceania,Niue
+OCE-NFI,Oceania,Norfolk Island
+OCE-NMI,Oceania,Northern Mariana Islands
+ERO-NWY,Europe Other,Norway
+MIE-OPT,Middle East,Occupied Palestinian Territories
+MIE-OMN,Middle East,Oman
+OTH-OUT,Other,Other and unknown
+ASO-PAK,Asia South,Pakistan
+OCE-PAL,Oceania,Palau
+ACS-PAN,America Central and South ,Panama
+OCE-PNG,Oceania,Papua New Guinea
+ACS-PRG,America Central and South ,Paraguay
+ACS-PER,America Central and South ,Peru
+ASE-PLP,Asia South East,Philippines
+OTH-PIB,Other,Pitcairn Islands (British)
+EU8-POL,EU 8,Poland
+EU1-PTG,EU 14,Portugal
+AMN-PTR,America North,Puerto Rico
+MIE-QTR,Middle East,Qatar
+OTH-RFG,Other,Refugee
+AFS-REU,Africa Sub-Saharan,Reunion
+EU2-RMN,EU 2,Romania
+ERO-RUS,Europe Other,Russia
+AFS-RWA,Africa Sub-Saharan,Rwanda
+OCE-SAM,Oceania,Samoa
+ERO-SMR,Europe Other,San Marino
+AFS-STP,Africa Sub-Saharan,Sao Tome and Principe
+MIE-SDA,Middle East,Saudi Arabia
+AFS-SNG,Africa Sub-Saharan,Senegal
+ERO-SRB,Europe Other,Serbia
+ERO-SAM,Europe Other,Serbia and Montenegro
+AFS-SCH,Africa Sub-Saharan,Seychelles
+AFS-SRL,Africa Sub-Saharan,Sierra Leone
+ASE-SGP,Asia South East,Singapore
+EU8-SVK,EU 8,Slovakia
+EU8-SVN,EU 8,Slovenia
+OCE-SLI,Oceania,Solomon Islands
+AFS-SOM,Africa Sub-Saharan,Somalia
+AFS-SAF,Africa Sub-Saharan,South Africa
+OTH-SGI,Other,South Georgia and South Sandwich Islands
+EU1-SPA,EU 14,Spain
+ASO-SLK,Asia South,Sri Lanka
+OTH-SHB,Other,St. Helena (British)
+ACS-SKN,America Central and South ,St. Kitts and Nevis
+ACS-SLU,America Central and South ,St. Lucia
+ACS-SMD,America Central and South ,St. Maarten (Dutch Part)
+ACS-SMF,America Central and South ,St. Martin (French Part)
+ACS-SPM,America Central and South ,St. Pierre and Miquelon
+ACS-SVG,America Central and South ,St. Vincent and the Grenadines
+OTH-STL,Other,Stateless
+AFN-SUD,Africa North,Sudan
+AFS-SDS,Africa Sub-Saharan,Sudan (South)
+ACS-SRN,America Central and South ,Surinam
+ERO-SJM,Europe Other,Svalbard and Jan Mayen
+AFS-SWZ,Africa Sub-Saharan,Swaziland
+EU1-SWD,EU 14,Sweden
+ERO-SWT,Europe Other,Switzerland
+MIE-SYR,Middle East,Syria
+AEA-TWN,Asia East,Taiwan
+ACE-TJK,Asia Central,Tajikistan
+AFS-TNZ,Africa Sub-Saharan,Tanzania
+ASE-THA,Asia South East,Thailand
+AFS-TOG,Africa Sub-Saharan,Togo
+OCE-TKL,Oceania,Tokelau
+OCE-TNG,Oceania,Tonga
+ACS-TAT,America Central and South ,Trinidad and Tobago
+AFN-TNS,Africa North,Tunisia
+ERO-TRK,Europe Other,Turkey
+ACE-TMS,Asia Central,Turkmenistan
+OTH-TCI,Other,Turks and Caicos Islands (British)
+OCE-TVL,Oceania,Tuvalu
+AFS-UGD,Africa Sub-Saharan,Uganda
+ERO-UKR,Europe Other,Ukraine
+MIE-UAE,Middle East,United Arab Emirates
+AMN-UST,America North,United States
+ACS-URG,America Central and South ,Uruguay
+ACE-UZB,Asia Central,Uzbekistan
+OCE-VNT,Oceania,Vanuatu
+ERO-VTC,Europe Other,Vatican City
+ACS-VNZ,America Central and South ,Venezuela
+ASE-VTN,Asia South East,Vietnam
+OTH-VIB,Other,Virgin Islands (British)
+AMN-VIU,America North,Virgin Islands (US)
+OCE-WAF,Oceania,Wallis and Futuna
+AFN-WSH,Africa North,Western Sahara
+MIE-YMN,Middle East,Yemen
+AFS-ZMB,Africa Sub-Saharan,Zambia
+AFS-ZBW,Africa Sub-Saharan,Zimbabwe
